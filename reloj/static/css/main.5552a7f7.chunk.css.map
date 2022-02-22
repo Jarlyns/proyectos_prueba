@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,iBAGE,qBACF,CAEA,KACE,QACF,CAEA,aACE,eACF,CACA,kBACE,iBACF","file":"main.5552a7f7.chunk.css","sourcesContent":["*,\n:before,\n:after {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n}\n\nnav a.active {\n  font-weight: bold;\n}\n.grecaptcha-badge {\n  visibility: hidden;\n}\n"]}
